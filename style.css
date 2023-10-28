@@ -1,0 +1,56 @@
+nav {
+    background-image: url(bb.webp); height: 200px;
+background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+ background-attachment: scroll; 
+ padding: auto; 
+ 
+ 
+ 
+} 
+h1 { 
+    display: flex;
+    justify-content: center;
+    color: rgba(0, 0, 0, 0.685)
+    
+} 
+p { 
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0) 
+    
+} 
+body {
+    background-color: antiquewhite;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: cover; 
+    backface-visibility: hidden;
+} 
+nav {
+    font-size: 25px;
+    padding: 10px;
+} 
+section {
+    display: flex;
+}
+div {
+    margin: 10px;  
+    padding: 10px;
+    border: 1px solid black;
+} 
+img 
+{
+    border-radius: 8px;
+}
+button {
+    margin-left: 60px;
+}
+h2 { 
+    font-size: 20px;
+    text-align: center;
+}
+
+
